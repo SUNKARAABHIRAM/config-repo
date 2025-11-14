@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/orders_db
+    username: order_dev
+    password: secret_order_dev
