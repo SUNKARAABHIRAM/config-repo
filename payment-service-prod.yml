@@ -1,5 +1,5 @@
 spring:
   datasource:
     url: jdbc:mysql://prod-db:3306/payment_db
-    username: payment_prod
+    username: payment_prod_v1
     password: secret_payment_prod
